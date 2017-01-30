@@ -12,9 +12,7 @@ In this section, some key concepts and terms are explained in order to provide b
 
 ### Economics - Microeconomics
 Economics is a social science concerned with the factors that determine the production, distribution, and consumption of goods and services. Economics is focused on behavior and the interaction of economic agents as well as how economies work as a whole. Generally, economics is divided into macro- and microeconomics. Macroeconomics focuses on economies as a whole, while microeconomics focuses more on individual actions of individuals, households, or firms. 
-
 <br>
-
 One important assumption in standard economics is rationality. Rational choice theory assumes that people’s behavior is solely based on their self-interest; people know everything, including all options available, that influences their decisions and people always decide consistent with their stable preferences. Rationality is also an important assumption in utility theory, which is a theory to explain the choices individuals make. It implies that individuals value a good or service based on the satisfaction they derive from it. It is not always possible to exactly measure utility from all possible outcomes, but individuals are capable of ranking them from best to worst. This implies that individuals have a complete overview of all possible options: they are able to indicate which good or service they prefer over the other. Furthermore, with regards to the same good or service it holds that more is always better. Next to this, people prefer to consume a variety of goods and services over more of the same good or service. 
 
 ### Game theory
