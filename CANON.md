@@ -65,7 +65,7 @@ The aim of this canon was to give an insight into behavioral economics. It was d
 
 ## Interesting articles to read
 + Brown, G., Hagen, D.A. (2010) [Behavioural Economics and the Environment.](http://search.proquest.com/openview/ad1dcbc41c85d8f954a429bc4ca82d5b/1?pq-origsite=gscholar) *Environment and Resource Economics.* 46. 139-146.
-+	DeSombre, E. R. (2004) [Global Warming: More Common Than Tragic.] *Ethics & International Affairs.* 18(01). 41-46.
++	DeSombre, E. R. (2004) Global Warming: More Common Than Tragic. *Ethics & International Affairs.* 18(01). 41-46.
 +	Garrett Hardin (1968) The tragedy of the commons. *Science.* 162 (3859). 1243-1248. 
 +	Libecap, G. D. (2009). [The tragedy of the commons: property rights and markets as solutions to resource and environmental problems.](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8489.2007.00425.x/full) *Australian Journal of Agricultural and Resource Economics.* 53(1), 129-144.
 +	Jex, C. (2015) How to nudge consumers to make greener choices. Science Nordic. [Online] Available form:  http://sciencenordic.com/how-nudge-consumers-make-greener-choices [Accessed: 19th January 2017]
